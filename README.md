@@ -4,7 +4,7 @@
 Welcome to my GitHub profile! I'm a passionate DevSecOps based in Tempe, Arizona. Here, you'll find a collection of my projects and contributions.
 
 <!-- GitHub Stats -->
-![alt text](https://github.com/ransomnumber6/IMG_1395.jpeg "Logo Title Text 1")
+![alt text](https://github.com/ransomnumber6/ransomnumber6/IMG_1395.jpeg "Logo Title Text 1")
 <!-- Skills Section -->
 ## 💻 Skills
 
