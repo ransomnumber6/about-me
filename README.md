@@ -1,7 +1,7 @@
 <!-- Header Section -->
 # Hi there, I'm Trevor Ransom 👋
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession] based in [Your Location]. Here, you'll find a collection of my projects and contributions.
+Welcome to my GitHub profile! I'm a passionate DevSecOps based in Tempe, Arizona. Here, you'll find a collection of my projects and contributions.
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
@@ -11,18 +11,21 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession] based in [Your 
 <!-- Skills Section -->
 ## 💻 Skills
 
-- **Languages:** [List of Programming Languages]
-- **Frameworks & Libraries:** [List of Frameworks and Libraries]
-- **Tools & Technologies:** [List of Tools and Technologies]
+- **Languages:** Python, C, C++, Bash, Java, YAML, MIPS Assembly. JavaScript, 
+- **Frameworks & Libraries:** HTML, CSS
+- **Tools & Technologies:** GitHub CI/CD, Kubernetes, K9S, Docker, Docker Compose, Ansible, Packer, Atlassian Suite (Jira, Confluence, VSphere), Git
 
 <!-- Featured Projects Section -->
 ## 🚀 Featured Projects
 
-### [Project 1 Name](link-to-project-1)
-Description of project 1.
+### [Blockchain Chain-of-Custody]([link-to-project-1](https://github.com/ransomnumber6/Etch-a-sketch))
+This project is a simple etch-a-sketch game that was built using the MIPS Assembly language.
 
-### [Project 2 Name](link-to-project-2)
-Description of project 2.
+### [Assembly Etch-A-Sketch]([link-to-project-2](https://github.com/ransomnumber6/Blockchain-Chain-Of-Custody))
+ This program is meant to simulate a chain of custody breadcrumb system using blockchain mechanics.
+
+### [Snake Game (Java) ]([link-to-project-3](https://github.com/ransomnumber6/SnakeGame))
+This is a simple snake game that was built using Java.
 
 <!-- Recent Activity Section -->
 ## ⚡ Recent Activity
@@ -34,10 +37,10 @@ Description of project 2.
 <!-- Connect with Me Section -->
 ## 🌐 Connect with Me
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
-- **Portfolio:** [Your Portfolio Website](https://www.your-portfolio.com)
+- **Email:** transom.andrew@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/trevor-ransom/)
+- **GitHub:** [Your GitHub Profile](https://github.com/ransomnumber6)
+- **Resume:** [Your Portfolio Website](https://ransomnumber6.github.io/trevor_ransom/resume.html)
 
 <!-- Footer Section -->
 ## 📬 Let's Connect!
