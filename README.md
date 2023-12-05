@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession] based in [Your 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ransomnumber6&show_icons=true&theme=radical)
 
 <!-- Skills Section -->
 ## 💻 Skills
