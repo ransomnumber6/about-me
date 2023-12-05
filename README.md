@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate DevSecOps based in Tempe, Arizona
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ransomnumber6&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ransomnumber6&show_icons=true&theme=aura)
 
 <!-- Skills Section -->
 ## 💻 Skills
@@ -17,6 +17,13 @@ Welcome to my GitHub profile! I'm a passionate DevSecOps based in Tempe, Arizona
 
 <!-- Featured Projects Section -->
 ## 🚀 Featured Projects
+### [Jettrav Capstone Project](https://github.com/jettrav/jettrav)
+####[Staging website](https://jettrav.rishavkumar.io/home.php)####
+Jettrav Website Repo. Arizona State University Capstone Project.
+
+The goal of this project was to develop a survey system that allows users to communicate their travel preferences using a travel questionnaire. Answers from this survey would then be used to generate a custom itinerary for the traveler based on group size, travel style, budget, and destination preferences.
+
+The current state of this project consists of fully functional features that are demonstrated on a demo website hosted by SiteGround. The project is still in progress and will require various iterative development changes.
 
 ### [Blockchain Chain-of-Custody](https://github.com/ransomnumber6/Etch-a-sketch)
 This project is a simple etch-a-sketch game that was built using the MIPS Assembly language.
