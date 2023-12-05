@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate DevSecOps based in Tempe, Arizona
 
 <!-- Featured Projects Section -->
 ## 🚀 Featured Projects
-### [Jettrav Capstone Project](https://github.com/jettrav/jettrav){: style="color: aqua;"}
+### <a href="https://github.com/jettrav/jettrav" style="color: aqua;">Jettrav Capstone Project</a>
 #### [Staging website](https://jettrav.rishavkumar.io/home.php){: style="color: aqua;"}
 Jettrav Website Repo. Arizona State University Capstone Project.
 
