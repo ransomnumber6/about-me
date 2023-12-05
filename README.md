@@ -1,5 +1,5 @@
 <!-- Header Section -->
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Trevor Ransom 👋
 
 Welcome to my GitHub profile! I'm a passionate [Your Profession] based in [Your Location]. Here, you'll find a collection of my projects and contributions.
 
