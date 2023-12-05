@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate DevSecOps based in Tempe, Arizona
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ransomnumber6&show_icons=true&theme=aura)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ransomnumber6&show_icons=true&theme=react)
 
 <!-- Skills Section -->
 ## 💻 Skills
@@ -18,20 +18,20 @@ Welcome to my GitHub profile! I'm a passionate DevSecOps based in Tempe, Arizona
 <!-- Featured Projects Section -->
 ## 🚀 Featured Projects
 ### <a href="https://github.com/jettrav/jettrav" style="color: aqua;">Jettrav Capstone Project</a>
-#### [Staging website](https://jettrav.rishavkumar.io/home.php){: style="color: aqua;"}
+#### [Staging website](https://jettrav.rishavkumar.io/home.php)
 Jettrav Website Repo. Arizona State University Capstone Project.
 
 The goal of this project was to develop a survey system that allows users to communicate their travel preferences using a travel questionnaire. Answers from this survey would then be used to generate a custom itinerary for the traveler based on group size, travel style, budget, and destination preferences.
 
 The current state of this project consists of fully functional features that are demonstrated on a demo website hosted by SiteGround. The project is still in progress and will require various iterative development changes.
 
-### [Blockchain Chain-of-Custody](https://github.com/ransomnumber6/Etch-a-sketch){: style="color: aqua;"}
+### [Blockchain Chain-of-Custody](https://github.com/ransomnumber6/Etch-a-sketch)
 This project is a simple etch-a-sketch game that was built using the MIPS Assembly language.
 
 ### [Assembly Etch-A-Sketch](https://github.com/ransomnumber6/Blockchain-Chain-Of-Custody){: style="color: aqua;"}
  This program is meant to simulate a chain of custody breadcrumb system using blockchain mechanics.
 
-### [Snake Game (Java) ](https://github.com/ransomnumber6/SnakeGame){: style="color: aqua;"}
+### [Snake Game (Java) ](https://github.com/ransomnumber6/SnakeGame)
 This is a simple snake game that was built using Java.
 
 <!-- Recent Activity Section -->
@@ -45,9 +45,9 @@ This is a simple snake game that was built using Java.
 ## 🌐 Connect with Me
 
 - **Email:** transom.andrew@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/trevor-ransom/){: style="color: aqua;"}
-- **GitHub:** [Your GitHub Profile](https://github.com/ransomnumber6){: style="color: aqua;"}
-- **Resume:** [Your Portfolio Website](https://ransomnumber6.github.io/trevor_ransom/resume.html){: style="color: aqua;"}
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/trevor-ransom/)
+- **GitHub:** [Your GitHub Profile](https://github.com/ransomnumber6)
+- **Resume:** [Your Portfolio Website](https://ransomnumber6.github.io/trevor_ransom/resume.html)
 
 <!-- Footer Section -->
 ## 📬 Let's Connect!
