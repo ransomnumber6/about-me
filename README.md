@@ -18,13 +18,13 @@ Welcome to my GitHub profile! I'm a passionate DevSecOps based in Tempe, Arizona
 <!-- Featured Projects Section -->
 ## 🚀 Featured Projects
 
-### [Blockchain Chain-of-Custody]([(https://github.com/ransomnumber6/Etch-a-sketch)])
+### [Blockchain Chain-of-Custody](https://github.com/ransomnumber6/Etch-a-sketch)
 This project is a simple etch-a-sketch game that was built using the MIPS Assembly language.
 
-### [Assembly Etch-A-Sketch]([(https://github.com/ransomnumber6/Blockchain-Chain-Of-Custody)])
+### [Assembly Etch-A-Sketch](https://github.com/ransomnumber6/Blockchain-Chain-Of-Custody)
  This program is meant to simulate a chain of custody breadcrumb system using blockchain mechanics.
 
-### [Snake Game (Java) ]([(https://github.com/ransomnumber6/SnakeGame)])
+### [Snake Game (Java) ](https://github.com/ransomnumber6/SnakeGame)
 This is a simple snake game that was built using Java.
 
 <!-- Recent Activity Section -->
