@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate DevSecOps based in Tempe, Arizona
 <!-- Featured Projects Section -->
 ## 🚀 Featured Projects
 ### [Jettrav Capstone Project](https://github.com/jettrav/jettrav)
-####[Staging website](https://jettrav.rishavkumar.io/home.php)####
+#### [Staging website](https://jettrav.rishavkumar.io/home.php)
 Jettrav Website Repo. Arizona State University Capstone Project.
 
 The goal of this project was to develop a survey system that allows users to communicate their travel preferences using a travel questionnaire. Answers from this survey would then be used to generate a custom itinerary for the traveler based on group size, travel style, budget, and destination preferences.
